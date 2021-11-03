@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1615465255 source:c:\users\26407\desktop\codeblocksfile\matchbracket\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1615465255 source:c:\users\26407\desktop\codeblocksfiles\matchbracket\main.c
+	<stdio.h>
+	<stdlib.h>
+

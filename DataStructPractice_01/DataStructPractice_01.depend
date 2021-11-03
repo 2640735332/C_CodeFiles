@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1614777359 source:c:\users\26407\desktop\新建文件夹\datastructpractice_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1614854236 source:c:\users\26407\desktop\codeblocksfile\datastructpractice_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1614854236 source:c:\users\26407\desktop\代码\c_codeblocksfiles\datastructpractice_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
