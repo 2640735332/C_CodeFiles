@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Configuration xmlns="https://www.unrealengine.com/BuildConfiguration">
+    <WindowsPlatform>
+        <!-- 强制使用 Visual Studio 2019 -->
+        <Compiler>VisualStudio2019</Compiler>
+        <CompilerVersion>2019</CompilerVersion>
+    </WindowsPlatform>
+    <VCProjectFileGenerator>
+        <Version>VisualStudio2019</Version>
+    </VCProjectFileGenerator>
+    <BuildConfiguration>
+        <!-- 输出详细日志以便调试 -->
+        <bPrintToolChainTimingInfo>true</bPrintToolChainTimingInfo>
+    </BuildConfiguration>
+</Configuration>
