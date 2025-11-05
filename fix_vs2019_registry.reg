@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\SxS\VS7]
+"16.0"="C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\VisualStudio\SxS\VS7]
+"16.0"="C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\"
